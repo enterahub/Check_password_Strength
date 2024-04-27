@@ -2,7 +2,7 @@
 Objective:
 Create a Python tool that checks the strength of a password based on various criteria.
 
-**Requirements:
+Requirements:
 1. Length Check: The password must be at least 12 characters long.
 2. Character Diversity: The password should include uppercase letters, lowercase letters, numbers, and at least two special characters (e.g., !, @, #, $).
 3. Common Password Check: The tool should compare the password against a list of the 1000 most common passwords and flag if the password is too common. You will need to create or find a list of common passwords to use for this check.
